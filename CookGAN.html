@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+  <title>CookGAN Project Page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta property="title" content="CookGAN: Causality based Text-to-Image Synthesis" />
+<meta property="keywords" content="CookGAN; text-to-image synthesis; causality; recipe; food" />
+<style type="text/css" media="all">
+
+a
+{
+    color : #FF3366;
+    text-decoration: none;
+    font-family : 'Georgia', Serif;
+}
+
+p{
+  font-family : 'Georgia', Serif;
+}
+
+.bibtex {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0px 1em;
+    font-size : 14px;
+    color: black;
+    background-color: #ffffff;
+}
+
+h1
+{
+    text-align : center;
+    font-family : 'Georgia', Serif;
+    font-size : 30px;
+}
+h2 {
+    font-family : 'Georgia', Serif;
+    font-size : 25px;
+    padding : 0; margin : 10px;
+}
+
+
+
+IMG {
+	PADDING-RIGHT: 0px;
+	PADDING-LEFT: 0px;
+	FLOAT: right;
+	PADDING-BOTTOM: 20px;
+	PADDING-TOP: 0px
+}
+#primarycontent {
+	MARGIN-LEFT: auto; ; WIDTH: expression(document.body.clientWidth >
+1000? "1000px": "auto" ); MARGIN-RIGHT: auto; TEXT-ALIGN: left; max-width:
+1000px; border : #C8C8C8 2px solid; border-radius: 20px; padding : 25px 25px; }
+BODY {
+	TEXT-ALIGN: center
+}
+</style>
+
+<meta content="MSHTML 6.00.2800.1400" name="GENERATOR"><script src="b5m.js" id="b5mmain" type="text/javascript"></script></head>
+
+<body>
+
+<div id="primarycontent">
+<center><h1>CookGAN: Causality based Text-to-Image Synthesis</h1></center>
+<center><h2><a href="https://binzhubz.github.io/">Bin Zhu</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.cs.cityu.edu.hk/~cwngo/">Chong-Wah Ngo</a></h2></center>
+<center><h2><a href="http://vireo.cs.cityu.edu.hk/">Vireo, City University of Hong Kong</a></h2></center>
+<center><h2><a href="http://cvpr2020.thecvf.com/">CVPR 2020</a></h2></center>
+ 
+<center><img src="images/project_imgs/quality.jpg" width="1000"></center>
+<p></p>
+<p></p>
+<br>
+<h2>Abstract</h2>
+
+<div style="font-size:18px"><p align="justify">This paper addresses the problem of text-to-image syn-
+thesis from a new perspective, i.e., the cause-and-effect
+chain in image generation. Causality is a common phe-
+nomenon in cooking. The dish appearance changes depend-
+ing on the cooking actions and ingredients. The challenge
+of synthesis is that a generated image should depict the vi-
+sual result of action-on-object. This paper presents a new
+network architecture, CookGAN, that mimics visual effect in
+causality chain, preserves fine-grained details and progres-
+sively upsamples image. Particularly, a cooking simulator
+sub-network is proposed to incrementally make changes to
+food images based on the interaction between ingredients
+and cooking methods over a series of steps. Experiments on
+Recipe1M verify that CookGAN manages to generate food
+images with reasonably impressive inception score. Fur-
+thermore, the images are semantically interpretable and
+manipulable.</p>
+
+<center><p><strong><a href='#'>Full Paper</a>&nbsp;|&nbsp;<a href='#'>Supplementary Materials (coming soon...)</a></strong></p></center>
+</div>
+
+<h2>Model</h2>
+<p style="font-size:18px">The food image of a recipe is progressively upsampled from resolution of 64x64 to 256x256. The Cooking Simulator is a tailor-made sub-network to implicitly model cause-and-effect visual change in cooking process.</p>
+<center><img src="images/project_imgs/model.jpg" width="1000"></center>
+
+<p style="font-size:18px">Cooking Simulator prepares image attended ingredient features and 
+  "cooked" features for upsampling of food image. The GRUs
+are initialized with the image attended ingredient features. At each step of cooking, a GRU cell turns the image attended ingredient features
+into a new hidden state, modeling the change in ingredients as result of a cooking action. </p>
+<center><img src="images/project_imgs/cook.jpg" width="1000"></center>
+
+<h2>Content Manipulability</h2>
+<p style="font-size:18px">An advantage of CookGAN is that an image can be pro-
+duced on-the-fly by incremental manipulation of a recipe,
+for example, through semantically changing ingredient list.</p>
+<center><img src="images/project_imgs/manipulation.jpg" width="1000"></center>
+
+<p></p>
+
+<h2>Citation</h2>
+<p class="bibtex">
+  @inproceedings{zhu2020cookgan,
+  title={CookGAN: Causality based Text-to-Image Synthesis},
+  author={Zhu, Bin and Ngo, Chong-Wah},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2020}
+  }
+<br>
+  @inproceedings{zhu2019r2gan,
+  title={R2GAN: Cross-modal recipe retrieval with generative adversarial network},
+  author={Zhu, Bin and Ngo, Chong-Wah and Chen, Jingjing and Hao, Yanbin},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={11477--11486},
+  year={2019}
+  }
+</p>
+</div>
+
+
+
+</body></html>
