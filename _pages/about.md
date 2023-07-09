@@ -1,5 +1,5 @@
 ---
-layout: about_new
+layout: about
 title: About
 permalink: /
 description: >
