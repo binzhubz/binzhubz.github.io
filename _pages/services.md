@@ -13,7 +13,8 @@ nav_order: 2
   - <a href='http://www.mmasia2023.org/special_session.html'> Special Session on Multimedia on Cooking and Eating Activities, ACM Multimedia Asia 2023</a>
 
 - Conference PC member: 
-  -  IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023
+  - IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024, 2023
+  - Annual AAAI Conference on Artificial Intelligence 2024 (AAAI)
   - International Conference on Computer Vision (ICCV), 2023
   - ACM International Conference on Multimedia (ACM MM), 2023
   - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024, 2023
