@@ -13,7 +13,7 @@ nav_order: 5
 
 <b>Address</b>:
 
-School of Computing and Information Systems
-Singapore Management University (SMU)
-80 Stamford Road
-Singapore 178902
+School of Computing and Information Systems<br/>
+Singapore Management University (SMU)<br/>
+80 Stamford Road<br/>
+Singapore 178902<br/>
