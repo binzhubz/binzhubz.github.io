@@ -9,12 +9,11 @@ nav_order: 5
 
 
 #### Contact details:
-<b>Email:</b> <a href="mailto:Bin.Zhu@bristol.ac.uk">Bin.Zhu@bristol.ac.uk</a> | <a href="mailto:andrewzhu1216@gmail.com">andrewzhu1216@gmail.com</a>
+<b>Email:</b> <a href="mailto:binzhu@smu.edu.sg ">binzhu@smu.edu.sg</a>
 
 <b>Address</b>:
 
-Department of Computer Science,
-
-University of Bristol,
-
-United Kingdom
+School of Computing and Information Systems
+Singapore Management University (SMU)
+80 Stamford Road
+Singapore 178902
