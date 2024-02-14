@@ -14,9 +14,10 @@ nav_order: 2
 
 - Conference PC member: 
   - IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024, 2023
-  - Annual AAAI Conference on Artificial Intelligence 2024 (AAAI)
+  - European Conference on Computer Vision (ECCV) 2024
+  - Annual AAAI Conference on Artificial Intelligence (AAAI) 2024
   - International Conference on Computer Vision (ICCV), 2023
-  - ACM International Conference on Multimedia (ACM MM), 2023
+  - ACM International Conference on Multimedia (ACM MM), 2024, 2023
   - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024, 2023
   
 - Journal reviewer: 
