@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I join <a href="https://www.smu.edu.sg/"> Singapore Management University </a> as an Assistant Professor of Computer Science.
+I joined <a href="https://www.smu.edu.sg/"> Singapore Management University </a> as an Assistant Professor of Computer Science.
