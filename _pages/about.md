@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Assistant Professor of Computer Science, SMU </p>
+    </p><a href="https://scholar.google.com.hk/citations?user=xn0ZcJQAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a></p>
+    <p> <a href="mailto:binzhu@smu.edu.sg"><i class="fas fa-envelope"></i> E-mail</a></p>
     <p> 80 Stamford Road, Singapore 178902 </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
