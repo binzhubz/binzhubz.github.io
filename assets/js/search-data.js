@@ -97,8 +97,8 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-on-cooking-procedural-image-generation-is-accepted-by-acm-tomm",
           title: 'One paper on Cooking Procedural Image Generation is accepted by ACM TOMM.',
           description: "",
-          section: "News",},{id: "news-one-papers-on-recipe-progress-tracking-in-non-visual-cooking-are-accepted-by-assets-2025",
-          title: 'One papers on Recipe Progress Tracking in Non-Visual Cooking are accepted by ASSETS...',
+          section: "News",},{id: "news-one-paper-on-recipe-progress-tracking-in-non-visual-cooking-are-accepted-by-assets-2025",
+          title: 'One paper on Recipe Progress Tracking in Non-Visual Cooking are accepted by ASSETS...',
           description: "",
           section: "News",},{
         id: 'social-email',
