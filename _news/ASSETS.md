@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One papers on Recipe Progress Tracking in Non-Visual Cooking are accepted by ASSETS 2025.
+One paper on Recipe Progress Tracking in Non-Visual Cooking are accepted by ASSETS 2025.
