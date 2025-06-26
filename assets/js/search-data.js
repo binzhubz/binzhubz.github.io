@@ -100,6 +100,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-on-recipe-progress-tracking-in-non-visual-cooking-are-accepted-by-assets-2025",
           title: 'One paper on Recipe Progress Tracking in Non-Visual Cooking are accepted by ASSETS...',
           description: "",
+          section: "News",},{id: "news-one-paper-on-multimodal-large-language-model-is-accepted-by-iccv-2025",
+          title: 'One paper on Multimodal Large Language Model is accepted by ICCV 2025.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
