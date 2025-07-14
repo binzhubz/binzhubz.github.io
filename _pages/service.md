@@ -37,6 +37,7 @@ nav_order: 5
         <li>IEEE Transactions on Multimedia</li>
         <li>IEEE Transactions on Cybernetics</li>
         <li>ACM Transactions on Multimedia Computing, Communications, and Applications</li>
+        <li>Multimedia Systems</li>
         <li>Information Sciences, Machine Vision and Applications</li>
         <li>IET Computer Vision</li>
       </ul>
