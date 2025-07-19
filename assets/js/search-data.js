@@ -106,6 +106,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-on-multimodal-large-language-model-is-accepted-by-acm-mm-2025",
           title: 'One paper on Multimodal Large Language Model is accepted by ACM MM 2025....',
           description: "",
+          section: "News",},{id: "news-one-paper-on-large-lithium-ion-battery-model-is-accepted-by-nature-communications-as-co-corresponding-author",
+          title: 'One paper on Large Lithium-ion Battery Model is accepted by Nature Communications as...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
