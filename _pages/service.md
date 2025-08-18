@@ -12,7 +12,7 @@ nav_order: 5
     <li>Conference/Challenges organizer:
       <ul>
         <li><a href="#">Program Co-chair for ACM International Conference on Multimedia Retrieval (ICMR) 2027</a></li>
-        <li>Embodied AI Workshop @ SMU</li>
+        <li>Embodied AI Workshop @ SMU 2025</li>
         <li>Session Chair, IEEE International Conference on Multimedia & Expo (ICME) 2025</li>
         <li><a href="https://2025.ieeeicme.org/ss10-multimedia-for-cooking-and-eating-activities/">Special Session on Multimedia for Cooking and Eating activities</a>, IEEE International Conference on Multimedia & Expo (ICME) 2025</li>
         <li><a href="https://epic-kitchens.github.io/">EPIC-KITCHENS-100 CHALLENGES (2022, 2023)</a></li>
@@ -30,7 +30,7 @@ nav_order: 5
         <li>Annual AAAI Conference on Artificial Intelligence (AAAI) 2026, 2024</li>
         <li>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025, 2024, 2023</li>
         <li>International World Wide Web Conference (WWW) (Demo Track) 2025</li>
-        <li> International Conference on Multimedia Modeling, 2026 </li>
+        <li> International Conference on Multimedia Modeling 2026 </li>
         <li> ACM Multimedia Asia 2025 </li>
       </ul>
     </li>
