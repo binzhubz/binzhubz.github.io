@@ -109,8 +109,8 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-on-large-lithium-ion-battery-model-is-accepted-by-nature-communications-as-co-corresponding-author",
           title: 'One paper on Large Lithium-ion Battery Model is accepted by Nature Communications as...',
           description: "",
-          section: "News",},{id: "news-i-am-awarded-a-singapore-ministry-of-education-academic-research-fund-tier-2-moe-acrf-tier-2-grant-as-principal-investigator-for-my-project-self-adaptive-planning-with-environmental-awareness-for-embodied-agents-with-total-funding-of-sgd-959-166",
-          title: 'I am awarded a Singapore Ministry of Education Academic Research Fund Tier 2...',
+          section: "News",},{id: "news-i-am-awarded-a-singapore-ministry-of-education-moe-academic-research-fund-acrf-tier-2-grant-as-principal-investigator-for-my-project-self-adaptive-planning-with-environmental-awareness-for-embodied-agents-with-total-funding-of-sgd-959-166",
+          title: 'I am awarded a Singapore Ministry of Education (MOE) Academic Research Fund (AcRF)...',
           description: "",
           section: "News",},{
         id: 'social-email',
