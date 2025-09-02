@@ -112,7 +112,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-awarded-a-singapore-ministry-of-education-moe-academic-research-fund-acrf-tier-2-grant-as-principal-investigator-for-my-project-self-adaptive-planning-with-environmental-awareness-for-embodied-agents-with-total-funding-of-sgd-959-166",
           title: 'I am awarded a Singapore Ministry of Education (MOE) Academic Research Fund (AcRF)...',
           description: "",
-          section: "News",},{id: "news-i-was-honored-to-serve-on-the-board-of-examiners-for-ph-d-candidate-gabriele-goletto-congratulations-to-dr-goletto-on-a-successful-defense",
+          section: "News",},{id: "news-i-was-honored-to-serve-on-the-board-of-examiners-for-ph-d-candidate-gabriele-goletto-whose-thesis-focused-on-egocentric-vision-congratulations-to-dr-goletto-on-a-successful-defense",
           title: 'I was honored to serve on the Board of Examiners for Ph.D. Candidate...',
           description: "",
           section: "News",},{
