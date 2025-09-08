@@ -28,5 +28,5 @@ announcements:
 
 <p>My research interest lies in Human Centered Multimedia Computing, including Cross-modal retrieval, Multi‐modal Large Language Model, Egocentric Video Understanding, Generative models and AI for Healthcare. Specifically, the objective is to conduct frontier research and develop cutting-edge technologies for processing, modeling, analyzing, understanding and generating multimedia content, that facilitate natural and immersive human experience and exert positive impact for our society. </p>
 
-<p>🔥🔥🔥<span style="color: rgb(255, 0, 0)">Openings:</span> I am actively looking for self-motivated Ph.D. students, CSC visiting students, and (remote) interns. If you are interested in working with me, please feel free to drop me an email with your CV and other supporting documents (if any). </p>
+<p>🔥🔥🔥<span style="color: rgb(255, 0, 0)">Openings:</span> I am actively looking for self-motivated Ph.D. students, CSC visiting students, and (remote) interns. In addition, I am looking for postdoctoral researchers and funded visiting students to work on embodied AI. If you are interested in working with me, please feel free to drop me an email with your CV and other supporting documents (if any). </p>
 
