@@ -115,6 +115,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-honored-to-serve-on-the-board-of-examiners-for-ph-d-candidate-gabriele-goletto-whose-thesis-focused-on-egocentric-vision-congratulations-to-dr-goletto-on-a-successful-defense",
           title: 'I was honored to serve on the Board of Examiners for Ph.D. Candidate...',
           description: "",
+          section: "News",},{id: "news-i-was-invited-to-deliver-a-talk-at-the-national-university-of-singapore-next-research-centre-on-food-computing-from-an-egocentric-video-perspective",
+          title: 'I was invited to deliver a talk at the National University of Singapore...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
