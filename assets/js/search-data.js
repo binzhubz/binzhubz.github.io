@@ -118,6 +118,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-invited-to-deliver-a-talk-at-the-national-university-of-singapore-next-research-centre-on-food-computing-from-an-egocentric-video-perspective",
           title: 'I was invited to deliver a talk at the National University of Singapore...',
           description: "",
+          section: "News",},{id: "news-two-papers-on-large-reasoning-model-safety-and-multimodal-large-language-model-are-accepted-by-mmm-2026",
+          title: 'Two papers on Large Reasoning Model Safety and Multimodal Large Language Model are...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
