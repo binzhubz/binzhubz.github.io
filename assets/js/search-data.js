@@ -121,6 +121,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-on-large-reasoning-model-safety-and-multimodal-large-language-model-are-accepted-by-mmm-2026",
           title: 'Two papers on Large Reasoning Model Safety and Multimodal Large Language Model are...',
           description: "",
+          section: "News",},{id: "news-one-paper-on-reinforcement-learning-for-robotic-manipulation-is-accepted-as-an-oral-presentation-by-aaai-2026-congrats-to-jiarui-and-all-collaborators",
+          title: 'One paper on Reinforcement Learning for Robotic Manipulation is accepted as an Oral...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
