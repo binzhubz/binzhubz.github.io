@@ -12,11 +12,18 @@ nav_order: 5
     <li>Conference/Challenges organizer:
       <ul>
         <li><a href="#">Program Co-chair for ACM International Conference on Multimedia Retrieval (ICMR) 2027</a></li>
+        <li><a href="#">Workshop Co-chair for ACM International Conference on Multimedia Retrieval (ICMR) 2026</a></li>
         <li>Embodied AI Workshop @ SMU 2025</li>
         <li>Session Chair, IEEE International Conference on Multimedia & Expo (ICME) 2025</li>
         <li><a href="https://2025.ieeeicme.org/ss10-multimedia-for-cooking-and-eating-activities/">Special Session on Multimedia for Cooking and Eating activities</a>, IEEE International Conference on Multimedia & Expo (ICME) 2025</li>
         <li><a href="https://epic-kitchens.github.io/">EPIC-KITCHENS-100 CHALLENGES (2022, 2023)</a></li>
         <li><a href="http://www.mmasia2023.org/special_session.html">Special Session on Multimedia on Cooking and Eating Activities</a>, ACM Multimedia Asia 2023</li>
+      </ul>
+    </li>
+
+    <li>Area Chair: 
+      <ul>
+        <li> IEEE International Conference on Multimedia & Expo (ICME) 2026 </li>
       </ul>
     </li>
 
