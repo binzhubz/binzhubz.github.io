@@ -105,8 +105,11 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-invited-to-serve-as-workshop-chair-at-acm-icmr-2026",
           title: 'I am invited to serve as Workshop Chair at ACM ICMR 2026.',
           description: "",
-          section: "News",},{id: "news-i-will-serve-as-area-chair-for-icme2026",
-          title: 'I will serve as Area Chair for ICME2026.',
+          section: "News",},{id: "news-i-will-serve-as-area-chair-for-icme-2026",
+          title: 'I will serve as Area Chair for ICME 2026.',
+          description: "",
+          section: "News",},{id: "news-i-will-serve-as-organization-chair-for-pacific-graphics-2026",
+          title: 'I will serve as Organization Chair for Pacific Graphics 2026.',
           description: "",
           section: "News",},{
         id: 'social-email',
