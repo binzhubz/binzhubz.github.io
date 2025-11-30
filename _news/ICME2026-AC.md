@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve as Area Chair for ICME2026.
+I will serve as Area Chair for ICME 2026.
