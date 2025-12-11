@@ -111,6 +111,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-serve-as-organization-chair-for-pacific-graphics-2026",
           title: 'I will serve as Organization Chair for Pacific Graphics 2026.',
           description: "",
+          section: "News",},{id: "news-our-project-vista-a-value-informed-safety-amp-amp-trust-architecture-for-autonomous-agents-has-been-awarded-by-ai-singapore-aisg-with-more-than-sgd-1-000-000-in-total-funding-i-will-serve-as-co-principal-investigator-congrats-zhiguang",
+          title: 'Our project “VISTA: A Value-Informed Safety &amp;amp;amp; Trust Architecture for Autonomous Agents” has...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
