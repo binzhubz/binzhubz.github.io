@@ -114,6 +114,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-project-vista-a-value-informed-safety-amp-amp-trust-architecture-for-autonomous-agents-has-been-awarded-by-ai-singapore-aisg-with-more-than-sgd-1-000-000-in-total-funding-i-will-serve-as-co-principal-investigator-congrats-zhiguang",
           title: 'Our project “VISTA: A Value-Informed Safety &amp;amp;amp; Trust Architecture for Autonomous Agents” has...',
           description: "",
+          section: "News",},{id: "news-one-paper-on-vision-language-navigation-is-accepted-by-tip-congrats-to-guangzhao-and-all-collaborators",
+          title: 'One paper on Vision Language Navigation is accepted by TIP. Congrats to Guangzhao...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
