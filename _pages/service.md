@@ -13,7 +13,7 @@ nav_order: 5
       <ul>
         <li><a href="#">Program Co-chair for ACM International Conference on Multimedia Retrieval (ICMR) 2027</a></li>
         <li><a href="https://pacificgraphics2026.github.io/">Organization Co-chair for Pacific Graphics 2026</a></li>
-        <li><a href="#">Workshop Co-chair for ACM International Conference on Multimedia Retrieval (ICMR) 2026</a></li>
+        <li><a href="https://icmr2026.org/workshops.html">Workshop Co-chair for ACM International Conference on Multimedia Retrieval (ICMR) 2026</a></li>
         <li>Embodied AI Workshop @ SMU 2025</li>
         <li>Session Chair, IEEE International Conference on Multimedia & Expo (ICME) 2025</li>
         <li><a href="https://2025.ieeeicme.org/ss10-multimedia-for-cooking-and-eating-activities/">Special Session on Multimedia for Cooking and Eating activities</a>, IEEE International Conference on Multimedia & Expo (ICME) 2025</li>
