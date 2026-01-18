@@ -117,6 +117,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-on-vision-language-navigation-is-accepted-by-tip-congrats-to-guangzhao-and-all-collaborators",
           title: 'One paper on Vision Language Navigation is accepted by TIP. Congrats to Guangzhao...',
           description: "",
+          section: "News",},{id: "news-three-papers-on-speech-llm-safety-3d-hand-motion-generation-and-recipe-generation-are-accepted-by-icassp-2026-congrats-to-jinyang-chinglam-guoshan-and-all-collaborators",
+          title: 'Three papers on Speech LLM Safety, 3D Hand Motion Generation and Recipe Generation...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
