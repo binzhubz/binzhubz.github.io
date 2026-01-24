@@ -33,9 +33,9 @@ nav_order: 5
         <li>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2026, 2025, 2024, 2023</li>
         <li>International Conference on Computer Vision (ICCV), 2025, 2023</li>
         <li>ACM International Conference on Multimedia (ACM MM), 2025, 2024, 2023</li>
+        <li>European Conference on Computer Vision (ECCV) 2024, 2026</li>
         <li> International Conference on Learning Representations (ICLR) 2026 </li>
         <li>IEEE International Conference on Multimedia & Expo (ICME) 2025</li>
-        <li>European Conference on Computer Vision (ECCV) 2024</li>
         <li>Annual AAAI Conference on Artificial Intelligence (AAAI) 2026, 2024</li>
         <li>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026, 2025, 2024, 2023</li>
         <li>International World Wide Web Conference (WWW) (Demo Track) 2025</li>
