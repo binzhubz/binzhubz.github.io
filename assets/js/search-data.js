@@ -120,6 +120,9 @@ ninja.data = [{
           section: "News",},{id: "news-three-papers-on-speech-llm-safety-3d-hand-motion-generation-and-recipe-generation-are-accepted-by-icassp-2026-congrats-to-jinyang-chinglam-guoshan-and-all-collaborators",
           title: 'Three papers on Speech LLM Safety, 3D Hand Motion Generation and Recipe Generation...',
           description: "",
+          section: "News",},{id: "news-our-paper-benchmarking-gaslighting-negation-attacks-against-reasoning-models-has-been-selected-as-a-best-paper-candidate-at-mmm-2026",
+          title: 'Our paper “Benchmarking Gaslighting Negation Attacks Against Reasoning Models” has been selected as...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
