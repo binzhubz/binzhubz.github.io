@@ -123,6 +123,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-benchmarking-gaslighting-negation-attacks-against-reasoning-models-has-been-selected-as-a-best-paper-candidate-at-mmm-2026",
           title: 'Our paper “Benchmarking Gaslighting Negation Attacks Against Reasoning Models” has been selected as...',
           description: "",
+          section: "News",},{id: "news-one-paper-on-runtime-monitoring-for-robotic-manipulation-is-accepted-by-cvpr-2026-congrats-to-shijie-and-all-collaborators",
+          title: 'One paper on Runtime Monitoring for Robotic Manipulation is accepted by CVPR 2026....',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
