@@ -8,8 +8,8 @@ middle_name:
 last_name: Zhu
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-footer_text: >
-  @Copyright 2025 Bin Zhu.
+footer_text: > 
+ 
   
   
 keywords: Multimedia, Multimodal Large Language Model, Egocentric Video Understanding, AI for Healthcare # add your own keywords or leave empty
