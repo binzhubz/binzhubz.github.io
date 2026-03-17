@@ -126,6 +126,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-on-runtime-monitoring-for-robotic-manipulation-is-accepted-by-cvpr-2026-congrats-to-shijie-and-all-collaborators",
           title: 'One paper on Runtime Monitoring for Robotic Manipulation is accepted by CVPR 2026....',
           description: "",
+          section: "News",},{id: "news-one-paper-on-text-to-image-generation-is-accepted-by-icme-2026",
+          title: 'One paper on Text-to-Image Generation is accepted by ICME 2026.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
