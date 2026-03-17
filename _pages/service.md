@@ -43,6 +43,7 @@ nav_order: 5
         <li>International World Wide Web Conference (WWW) (Demo Track) 2025</li>
         <li> International Conference on Multimedia Modeling 2026 </li>
         <li> ACM Multimedia Asia 2025 </li>
+        <li>Joint Egocentric Vision (EgoVis) Workshop, CVPR 2026 </li>
       </ul>
     </li>
 
