@@ -12,6 +12,7 @@ nav_order: 5
     <li>Conference/Challenges organizer:
       <ul>
         <li><a href="#">Program Co-chair for ACM International Conference on Multimedia Retrieval (ICMR) 2027</a></li>
+        <li><a href="https://www.mmm2027.net/home">Special Session Co-chair for International Conference on Multimedia Modeling (MMM) 2027</a></li>
         <li><a href="https://pacificgraphics2026.github.io/">Organization Co-chair for Pacific Graphics 2026</a></li>
         <li><a href="https://icmr2026.org/workshops.html">Workshop Co-chair for ACM International Conference on Multimedia Retrieval (ICMR) 2026</a></li>
         <li>Embodied AI Workshop @ SMU 2025</li>

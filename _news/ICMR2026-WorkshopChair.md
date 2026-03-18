@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am invited to serve as Workshop Chair at ACM ICMR 2026.
+I am invited to serve as Workshop Chair at <a href="https://icmr2026.org/organization.html">ACM ICMR 2026 </a>.
