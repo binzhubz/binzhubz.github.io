@@ -135,6 +135,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-on-text-to-video-generation-and-video-large-language-model-safety-have-been-accepted-to-acl-2026-as-a-main-conference-paper-and-a-findings-paper-respectively-congrats-to-xianjing-pengkun-and-all-collaborators",
           title: 'Two papers on Text-to-Video Generation and Video Large Language Model Safety have been...',
           description: "",
+          section: "News",},{id: "news-three-papers-on-multimodal-large-language-models-and-vision-language-segmentation-are-accepted-by-icmr-2026-congrats-to-yinxuan-pengkun-chengxi-and-all-collaborators",
+          title: 'Three papers on Multimodal Large Language Models and Vision-Language-Segmentation are accepted by ICMR...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
