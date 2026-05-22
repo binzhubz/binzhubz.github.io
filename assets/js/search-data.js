@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/service/";
           },
+        },{id: "nav-grants-amp-talks",
+          title: "grants&amp;talks",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/grants&talks/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "",
@@ -138,8 +145,8 @@ ninja.data = [{
           section: "News",},{id: "news-three-papers-on-multimodal-large-language-models-and-vision-language-segmentation-are-accepted-by-icmr-2026-congrats-to-yinxuan-pengkun-chengxi-and-all-collaborators",
           title: 'Three papers on Multimodal Large Language Models and Vision-Language-Segmentation are accepted by ICMR...',
           description: "",
-          section: "News",},{id: "news-i-was-invited-to-deliver-a-talk-at-the-singapore-vision-day-2026",
-          title: 'I was invited to deliver a talk at the Singapore Vision Day 2026....',
+          section: "News",},{id: "news-i-was-invited-to-deliver-a-talk-at-the-singapore-vision-day-2026-on-towards-trustworthy-embodied-intelligence",
+          title: 'I was invited to deliver a talk at the Singapore Vision Day 2026...',
           description: "",
           section: "News",},{
         id: 'social-email',
