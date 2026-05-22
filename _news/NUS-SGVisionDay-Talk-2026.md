@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I was invited to deliver a talk at the <a href="https://singaporevisionday.github.io/svd2026/">Singapore Vision Day 2026</a>.
+I was invited to deliver a talk at the <a href="https://singaporevisionday.github.io/svd2026/">Singapore Vision Day 2026</a> on "Towards Trustworthy Embodied Intelligence".
  

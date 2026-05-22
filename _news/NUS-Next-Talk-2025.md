@@ -5,6 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I was invited to deliver a talk at the <a href="https://www.nextcenter.org/">National University of Singapore NExT Research Centre</a> on "Food Computing from an Egocentric 
-Video Perspective".
+I was invited to deliver a talk at the <a href="https://www.nextcenter.org/">National University of Singapore NExT Research Centre</a> on "Food Computing from an Egocentric Video Perspective".
  
