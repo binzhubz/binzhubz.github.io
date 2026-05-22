@@ -20,9 +20,9 @@ nav_order: 5
   <ul>
     <li>Selected talks:
       <ul>
-        <li>Towards Trustworthy Embodied Intelligence, <a href="https://singaporevisionday.github.io/svd2026/">Singapore Vision Day 2026</a>, Singapore, May 2026</li>        
-        <li>Food Computing from an Egocentric Video Perspective, <a href="https://www.nextcenter.org/">Singapore NExT Research Centre</a>, Sep 2025.</li>
-        <li>Towards Human Centered Multimedia Computing, <a href="https://www.durham.ac.uk/">University of Duram</a>, Jun 2023.</li>
+        <li>Towards Trustworthy Embodied Intelligence, <a href="https://singaporevisionday.github.io/svd2026/">Singapore Vision Day 2026</a>, NUS, Singapore, May 2026.</li>        
+        <li>Food Computing from an Egocentric Video Perspective, <a href="https://www.nextcenter.org/">Singapore NExT Research Centre</a>, NUS, Singapore, Sep 2025.</li>
+        <li>Towards Human Centered Multimedia Computing, <a href="https://www.durham.ac.uk/">University of Duram</a>, United Kingdom, Jun 2023.</li>
       </ul>
 
     </li>
