@@ -52,6 +52,7 @@ nav_order: 3
       <ul>
         <li> IEEE Transactions on Pattern Analysis and Machine Intelligence </li>
         <li>IEEE Transactions on Multimedia</li>
+        <li>IEEE Transactions on Affective Computing</li>
         <li>IEEE Transactions on Cybernetics</li>
         <li>ACM Transactions on Multimedia Computing, Communications, and Applications</li>
         <li>Multimedia Systems</li>
