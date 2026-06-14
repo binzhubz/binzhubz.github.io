@@ -148,6 +148,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-invited-to-deliver-a-talk-at-the-singapore-vision-day-2026-on-towards-trustworthy-embodied-intelligence",
           title: 'I was invited to deliver a talk at the Singapore Vision Day 2026...',
           description: "",
+          section: "News",},{id: "news-i-was-invited-to-deliver-a-keynote-talk-titled-beyond-task-success-towards-trustworthy-foundation-models-for-robotics-at-the-trustvlm-workshop-at-icmr-2026",
+          title: 'I was invited to deliver a keynote talk, titled “Beyond Task Success: Towards...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
