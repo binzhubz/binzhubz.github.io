@@ -151,6 +151,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-invited-to-deliver-a-keynote-talk-titled-beyond-task-success-towards-trustworthy-foundation-models-for-robotics-at-the-trustvlm-workshop-at-icmr-2026",
           title: 'I was invited to deliver a keynote talk, titled “Beyond Task Success: Towards...',
           description: "",
+          section: "News",},{id: "news-two-papers-on-vision-language-action-safety-and-long-tail-learning-have-been-accepted-to-eccv-2026-congrats-to-ninghao-jianggang-and-all-collaborators",
+          title: 'Two papers on Vision-Language-Action Safety and Long-tail Learning have been accepted to ECCV...',
+          description: "",
+          section: "News",},{id: "news-i-am-honored-to-have-been-awarded-the-lee-kong-chian-fellowship",
+          title: 'I am honored to have been awarded the Lee Kong Chian Fellowship!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
