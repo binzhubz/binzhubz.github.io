@@ -157,6 +157,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-honored-to-have-been-awarded-the-lee-kong-chian-fellowship",
           title: 'I am honored to have been awarded the Lee Kong Chian Fellowship!',
           description: "",
+          section: "News",},{id: "news-one-paper-on-retrieval-augmented-generation-is-accepted-by-tomm-congrats-to-hailong-and-all-collaborators",
+          title: 'One paper on Retrieval Augmented Generation is accepted by TOMM. Congrats to Hailong...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
