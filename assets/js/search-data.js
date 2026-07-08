@@ -160,6 +160,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-on-retrieval-augmented-generation-is-accepted-by-tomm-congrats-to-hailong-and-all-collaborators",
           title: 'One paper on Retrieval Augmented Generation is accepted by TOMM. Congrats to Hailong...',
           description: "",
+          section: "News",},{id: "news-i-delivered-a-talk-at-institute-of-trustworthy-embodied-ai-fudan-university-on-beyond-task-success-towards-trustworthy-embodied-intelligence",
+          title: 'I delivered a talk at Institute of Trustworthy Embodied AI, Fudan University on...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
