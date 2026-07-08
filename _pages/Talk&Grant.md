@@ -20,6 +20,7 @@ nav_order: 5
   <ul>
     <li>Selected talks:
       <ul>
+       <li>Beyond Task Success: Towards Trustworthy Embodied Intelligence, <a href="https://teai.fudan.edu.cn/">Institute of Trustworthy Embodied AI, Fudan University</a>, Shanghai, China, July 2026.</li>
        <li>Beyond Task Success: Towards Trustworthy Foundation Models for Robotics, <a href="https://trustvlm.github.io/TrustVLM-ICMR26/">Keynote at TrustVLM Workshop, ICMR 2026</a>, Amsterdam, Netherlands, June 2026.</li> 
         <li>Towards Trustworthy Embodied Intelligence, <a href="https://singaporevisionday.github.io/svd2026/">Singapore Vision Day 2026</a>, NUS, Singapore, May 2026.</li>        
         <li>Food Computing from an Egocentric Video Perspective, <a href="https://www.nextcenter.org/">Singapore NExT Research Centre</a>, NUS, Singapore, Sep 2025.</li>
