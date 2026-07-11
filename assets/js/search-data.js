@@ -163,6 +163,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-delivered-a-talk-at-institute-of-trustworthy-embodied-ai-fudan-university-on-beyond-task-success-towards-trustworthy-embodied-intelligence",
           title: 'I delivered a talk at Institute of Trustworthy Embodied AI, Fudan University on...',
           description: "",
+          section: "News",},{id: "news-two-papers-on-multimodal-large-language-model-safety-and-spatial-intelligence-have-been-accepted-to-acm-mm-2026-congrats-to-pengkun-yian-and-all-collaborators",
+          title: 'Two papers on Multimodal Large Language Model Safety and Spatial Intelligence have been...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
