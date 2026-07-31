@@ -166,6 +166,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-on-multimodal-large-language-model-safety-and-spatial-intelligence-have-been-accepted-to-acm-mm-2026-congrats-to-pengkun-yian-and-all-collaborators",
           title: 'Two papers on Multimodal Large Language Model Safety and Spatial Intelligence have been...',
           description: "",
+          section: "News",},{id: "news-i-will-serve-as-senior-program-committee-for-aaai-2027",
+          title: 'I will serve as Senior Program Committee for AAAI 2027.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
