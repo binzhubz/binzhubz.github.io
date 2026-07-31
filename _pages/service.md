@@ -23,8 +23,9 @@ nav_order: 3
       </ul>
     </li>
 
-    <li>Area Chair: 
+    <li>Area Chair/Senior Program Committee: 
       <ul>
+      <li> Annual AAAI Conference on Artificial Intelligence (AAAI) 2027 </li>
         <li> IEEE International Conference on Multimedia & Expo (ICME) 2026 </li>
       </ul>
     </li>
