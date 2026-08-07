@@ -1,0 +1,173 @@
+---
+layout: page
+---
+
+{% assign current_members = page.profiles | where: "group", "current" %}
+{% assign alumni = page.profiles | where: "group", "alumni" %}
+
+<div class="team-page">
+
+  {% if current_members.size > 0 %}
+    <section class="team-section">
+      <h4 class="team-section-title">Current Members</h4>
+
+      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        {% for profile in current_members %}
+          <div class="col d-flex">
+            <article class="team-card w-100">
+
+              {% if profile.image %}
+                {% assign profile_image_path = profile.image | prepend: '/assets/img/' %}
+
+                <img
+                  src="{{ profile_image_path | relative_url }}"
+                  alt="{{ profile.name | escape }}"
+                  class="team-photo {% if profile.image_circular %}rounded-circle{% else %}rounded{% endif %}"
+                  loading="lazy"
+                >
+              {% endif %}
+
+              <div class="team-card-content">
+                {% if profile.content %}
+                  {% capture profile_content %}
+                    {% include_relative {{ profile.content }} %}
+                  {% endcapture %}
+
+                  {{ profile_content | markdownify }}
+                {% endif %}
+
+                {% if profile.more_info %}
+                  <div class="team-more-info">
+                    {{ profile.more_info }}
+                  </div>
+                {% endif %}
+              </div>
+
+            </article>
+          </div>
+        {% endfor %}
+      </div>
+    </section>
+  {% endif %}
+
+
+  {% if alumni.size > 0 %}
+    <section class="team-section alumni-section">
+      <h4 class="team-section-title">Alumni</h4>
+
+      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        {% for profile in alumni %}
+          <div class="col d-flex">
+            <article class="team-card alumni-card w-100">
+
+              {% if profile.image %}
+                {% assign profile_image_path = profile.image | prepend: '/assets/img/' %}
+
+                <img
+                  src="{{ profile_image_path | relative_url }}"
+                  alt="{{ profile.name | escape }}"
+                  class="team-photo {% if profile.image_circular %}rounded-circle{% else %}rounded{% endif %}"
+                  loading="lazy"
+                >
+              {% endif %}
+
+              <div class="team-card-content">
+                {% if profile.content %}
+                  {% capture profile_content %}
+                    {% include_relative {{ profile.content }} %}
+                  {% endcapture %}
+
+                  {{ profile_content | markdownify }}
+                {% endif %}
+
+                {% if profile.more_info %}
+                  <div class="team-more-info">
+                    {{ profile.more_info }}
+                  </div>
+                {% endif %}
+              </div>
+
+            </article>
+          </div>
+        {% endfor %}
+      </div>
+    </section>
+  {% endif %}
+
+</div>
+
+<style>
+  .team-section {
+    margin-bottom: 4rem;
+  }
+
+  .team-section-title {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0.6rem;
+    font-size: 2rem;
+    font-weight: 600;
+    border-bottom: 1px solid var(--global-divider-color);
+  }
+
+  .team-card {
+    height: 100%;
+    padding: 1.25rem;
+    text-align: center;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.75rem;
+    background-color: var(--global-bg-color);
+    transition:
+      transform 0.2s ease,
+      box-shadow 0.2s ease;
+  }
+
+  .team-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  }
+
+  .team-photo {
+    display: block;
+    width: 180px;
+    height: 180px;
+    max-width: 100%;
+    margin: 0 auto 1.25rem;
+    object-fit: cover;
+    object-position: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  }
+
+  .team-card-content h2 {
+    margin-bottom: 0.5rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+  }
+
+  .team-card-content h2 a {
+    color: var(--global-theme-color);
+  }
+
+  .team-card-content p {
+    margin-bottom: 0.6rem;
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+
+  .team-more-info {
+    margin-top: 1rem;
+    color: var(--global-text-color-light);
+  }
+
+  .team-more-info p {
+    margin-bottom: 0.15rem;
+  }
+
+  .alumni-section {
+    margin-top: 1rem;
+  }
+
+  .alumni-card {
+    opacity: 0.92;
+  }
+</style>
