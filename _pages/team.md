@@ -14,7 +14,7 @@ profiles:
     more_info: >
       <a href="https://scholar.google.com/citations?user=ysul-AUAAAAJ&hl=zh-CN">Guangzhao Dai</a>
       <p>Research Scientist</p>
-      <p>2026.8 - Present</p>
+      <p>Aug 2026 - Present</p>
       <p>Singapore Management University</p>
 
   - name: Cheng Ching Lam
@@ -24,7 +24,7 @@ profiles:
     more_info: >
       <a href="https://jacquescheng.github.io/">ChengChing Lam</a>
       <p>PhD Student with Prof. Shengfeng He</p>
-      <p>2024.8 - Present</p>
+      <p>Aug 2024 - Present</p>
       <p>Singapore Management University</p>
   
   - name: Yinxuan Gui
@@ -34,7 +34,7 @@ profiles:
     more_info: >
       <a href="https://scholar.google.com/citations?user=5WtspV8AAAAJ&hl=en">Yinxuan Gui</a>
       <p>PhD Student</p>
-      <p>2025.8 - Present</p>
+      <p>Aug 2025 - Present</p>
       <p>Singapore Management University</p>
 
   - name: HungManh Pham
@@ -44,7 +44,7 @@ profiles:
     more_info: >
       <a href="https://maxph2211.com/">HungManh Pham</a>
       <p>PhD Student with Prof. Pan Zhou</p>
-      <p>2025.12 - Present</p>
+      <p> Dec 2025 - Present</p>
       <p>Singapore Management University</p>
 
   - name: Huiqiong Li
@@ -54,7 +54,7 @@ profiles:
     more_info: >
       <a href="https://huiqiongli.github.io/">Huiqiong Li</a>
       <p>Research Engineer</p>
-      <p>2026.3 - Present</p>
+      <p>Mar 2026 - Present</p>
       <p>Singapore Management University</p>
 
   - name:  JinYang Wu
@@ -64,7 +64,7 @@ profiles:
     more_info: >
       <a href="https://scholar.google.com/citations?user=OIPXdwkAAAAJ&hl=en ">JinYang Wu</a>
       <p>MS Student with Prof. Pan Zhou</p>
-      <p>2025.3 - Present</p>
+      <p>Mar 2025 - Present</p>
       <p>Singapore Management University</p>
 
   - name: Shuqi Zhu
@@ -74,7 +74,7 @@ profiles:
     more_info: >
       <a href="#">Shuqi Zhu</a>
       <p>CSC PhD Visiting Student</p>
-      <p>2025.9 - Present</p>
+      <p>Sep 2025 - Present</p>
       <p>Hefei University of Technology</p>
 
   - name: Aernar Akeljian
@@ -84,7 +84,7 @@ profiles:
     more_info: >
       <a href="https://aernar.github.io/">Aernar Akeljian</a>
       <p>Undergraduate Visiting Student</p>
-      <p>2026.5 - Present</p>
+      <p>May 2026 - Present</p>
       <p>Fudan University</p>
 
   - name: Ninghao Zhang
@@ -94,7 +94,7 @@ profiles:
     more_info: >
       <a href="https://scholar.google.com/citations?user=hQHm5psAAAAJ&hl=zh-CN">Ninghao Zhang</a>
       <p>Undergraduate Visiting Student</p>
-      <p>2025.11 - 2026.7</p>
+      <p>Nov 2025 - Jul 2026</p>
       <p>Tsinghua University</p>
       <p>Next: PhD Student in Tsinghua University</p>
 
@@ -105,7 +105,7 @@ profiles:
     more_info: >
       <a href="https://scholar.google.com/citations?user=hZhYmfgAAAAJ&hl=zh-CN">Guoshan Liu</a>
       <p>CSC PhD Visiting Student</p>
-      <p> 2025.8 - 2026.2</p>
+      <p> Aug 2025 - Feb 2026</p>
       <p>Fudan University</p>
   
   - name: Xiao Lyu
@@ -115,7 +115,7 @@ profiles:
     more_info: >
       <a href="#">Xiao Lyu</a>
       <p>CSC PhD Visiting Student</p>
-      <p> 2024.9 - 2025.9</p>
+      <p> Sep 2024 - Sep 2025</p>
       <p>Chongqing University</p>
 
   - name: Huiyan Qi
@@ -125,7 +125,7 @@ profiles:
     more_info: >
       <a href="https://scholar.google.com/citations?user=SxaO6EkAAAAJ&hl=zh-CN&oi=ao">Huiyan Qi</a>
       <p>Research Engineer</p>
-      <p> 2024.5 - 2025.4</p>
+      <p> May 2024 - Apr 2025</p>
       <p>Singapore Management University</p>
       <p>Next: LLM Startup</p>
 
@@ -136,9 +136,9 @@ profiles:
     more_info: >
       <a href="#">Haozhuo Zhang</a>
       <p>Undergraduate Visiting Student</p>
-      <p> 2024.5 - 2024.10</p>
+      <p> May 2024 - Oct 2024</p>
       <p>Peking University</p>
-      <p>Next: PhD in University of Manchester</p>
+      <p>Next: PhD Student in University of Manchester</p>
 
 
 ---
