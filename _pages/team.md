@@ -22,7 +22,7 @@ profiles:
     image: team/ChengChingLam.jpg
     image_circular: false
     more_info: >
-      <a href="https://jacquescheng.github.io/">ChengChing Lam</a>
+      <a href="https://jacquescheng.github.io/">ChingLam Cheng</a>
       <p>PhD Student with Prof. Shengfeng He</p>
       <p>Aug 2024 - Present</p>
       <p>Singapore Management University</p>
@@ -37,12 +37,12 @@ profiles:
       <p>Aug 2025 - Present</p>
       <p>Singapore Management University</p>
 
-  - name: HungManh Pham
+  - name: Hung Manh Pham
     group: current
     image: team/HungManhPham.jpg
     image_circular: false
     more_info: >
-      <a href="https://maxph2211.com/">HungManh Pham</a>
+      <a href="https://maxph2211.com/">Hung Manh Pham</a>
       <p>PhD Student with Prof. Pan Zhou</p>
       <p> Dec 2025 - Present</p>
       <p>Singapore Management University</p>
@@ -62,7 +62,7 @@ profiles:
     image: team/jinyang.png
     image_circular: false
     more_info: >
-      <a href="https://scholar.google.com/citations?user=OIPXdwkAAAAJ&hl=en ">JinYang Wu</a>
+      <a href="https://scholar.google.com/citations?user=OIPXdwkAAAAJ&hl=en ">Jinyang Wu</a>
       <p>MS Student with Prof. Pan Zhou</p>
       <p>Mar 2025 - Present</p>
       <p>Singapore Management University</p>
