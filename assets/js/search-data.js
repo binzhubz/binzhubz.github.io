@@ -176,6 +176,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-serve-as-senior-program-committee-for-aaai-2027",
           title: 'I will serve as Senior Program Committee for AAAI 2027.',
           description: "",
+          section: "News",},{id: "news-i-delivered-an-online-talk-at-tianjin-university-on-beyond-task-success-towards-trustworthy-embodied-intelligence",
+          title: 'I delivered an online talk at Tianjin University on “Beyond Task Success: Towards...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
