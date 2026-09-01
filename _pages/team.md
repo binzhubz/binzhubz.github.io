@@ -86,6 +86,16 @@ profiles:
       <p>Undergraduate Visiting Student</p>
       <p>May 2026 - Present</p>
       <p>Fudan University</p>
+  
+  - name: Eiffel CHONG Shiang Yih
+    group: current
+    image: team/Eiffel.jpg
+    image_circular: false
+    more_info: >
+      <a href="#">Eiffel Chong Shiang Yih</a>
+      <p>Undergraduate Research Student</p>
+      <p>Aug 2026 - Present</p>
+      <p>Singapore Management University</p>
 
   - name: Ninghao Zhang
     group: alumni
