@@ -67,16 +67,7 @@ profiles:
       <p>Mar 2025 - Present</p>
       <p>Singapore Management University</p>
 
-  - name: Shuqi Zhu
-    group: current
-    image: team/ShuqiZHU.jpg
-    image_circular: false
-    more_info: >
-      <a href="#">Shuqi Zhu</a>
-      <p>CSC PhD Visiting Student</p>
-      <p>Sep 2025 - Present</p>
-      <p>Hefei University of Technology</p>
-
+  
   - name: Aernar Akeljian
     group: current
     image: team/aernar.jpg
@@ -86,6 +77,16 @@ profiles:
       <p>Undergraduate Visiting Student</p>
       <p>May 2026 - Present</p>
       <p>Fudan University</p>
+  
+  - name: Songyu Sun
+    group: current
+    image: team/SUNSongyu.jpg
+    image_circular: false
+    more_info: >
+      <a href="#">Songyu Sun</a>
+      <p>Undergraduate Research Student</p>
+      <p>July 2026 - Present</p>
+      <p>Hunan University</p>
   
   - name: Eiffel CHONG Shiang Yih
     group: current
@@ -97,6 +98,16 @@ profiles:
       <p>Aug 2026 - Present</p>
       <p>Singapore Management University</p>
 
+  - name: Shuqi Zhu
+    group: alumni
+    image: team/ShuqiZHU.jpg
+    image_circular: false
+    more_info: >
+      <a href="#">Shuqi Zhu</a>
+      <p>CSC PhD Visiting Student</p>
+      <p>Sep 2025 - Aug 2026</p>
+      <p>Hefei University of Technology</p>
+  
   - name: Ninghao Zhang
     group: alumni
     image: team/NinghaoZhang.jpg
