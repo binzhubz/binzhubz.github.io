@@ -30,13 +30,20 @@ nav_order: 5
       </ul>
     </li>
 
+    <li>Associate Editor: 
+      <ul>
+      <li> Pattern Recognition, 2026- </li>
+      </ul>
+    </li>
+
     <li>Conference PC member: 
       <ul>
         <li>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2026, 2025, 2024, 2023</li>
         <li>International Conference on Computer Vision (ICCV), 2025, 2023</li>
         <li>ACM International Conference on Multimedia (ACM MM), 2026, 2025, 2024, 2023</li>
         <li>European Conference on Computer Vision (ECCV) 2026, 2024</li>
-        <li> International Conference on Learning Representations (ICLR) 2026 </li>
+        <li> International Conference on Learning Representations (ICLR) 2027, 2026 </li>
+        <li>IEEE International Conference on Robotics & Automation (ICRA) 2027</li>
         <li> Annual Meeting of the Association for Computational Linguistics (ACL) 2026 </li>
         <li> Annual AAAI Conference on Artificial Intelligence (AAAI) 2026, 2024</li>
         <li> ACM International Conference on Multimedia Retrieval (ICMR) 2026</li>
