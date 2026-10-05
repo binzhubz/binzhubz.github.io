@@ -32,7 +32,7 @@ nav_order: 5
 
     <li>Associate Editor: 
       <ul>
-      <li> Pattern Recognition, 2026- </li>
+      <li> Pattern Recognition, 2026 - </li>
       </ul>
     </li>
 
