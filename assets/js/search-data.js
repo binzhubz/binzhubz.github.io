@@ -182,6 +182,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-on-cultural-video-generation-benchmarking-and-video-world-models-for-robotic-safety-have-been-accepted-to-emnlp-2026-as-a-main-conference-paper-and-a-findings-paper-respectively-congratulations-to-xianjing-huiqiong-and-all-collaborators",
           title: 'Two papers on Cultural Video Generation Benchmarking and Video World Models for Robotic...',
           description: "",
+          section: "News",},{id: "news-i-will-serve-as-an-associate-editor-on-the-editorial-board-of-pattern-recognition",
+          title: 'I will serve as an Associate Editor on the Editorial Board of Pattern...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
