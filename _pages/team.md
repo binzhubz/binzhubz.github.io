@@ -66,7 +66,16 @@ profiles:
       <p>MS Student with Prof. Pan Zhou</p>
       <p>Mar 2025 - Present</p>
       <p>Singapore Management University</p>
-
+  
+  - name: Zhonghao Xi
+    group: current
+    image: team/XIZhonghao.jpg
+    image_circular: false
+    more_info: >
+      <a href="https://openreview.net/profile?id=~Zhonghao_Xi1">Zhonghao Xi</a>
+      <p>CSC PhD Visiting Student</p>
+      <p>Jul 2026 - Present</p>
+      <p>Hefei University of Technology</p>
   
   - name: Aernar Akeljian
     group: current
@@ -74,10 +83,20 @@ profiles:
     image_circular: false
     more_info: >
       <a href="https://aernar.github.io/">Aernar Akeljian</a>
-      <p>Undergraduate Visiting Student</p>
+      <p>Undergraduate Research Visiting Student</p>
       <p>May 2026 - Present</p>
       <p>Fudan University</p>
-  
+
+  - name: Yuhan Su
+    group: current
+    image: team/Yuhan.jpeg
+    image_circular: false
+    more_info: >
+      <a href="#">Yuhan Su</a>
+      <p>Undergraduate Research Student</p>
+      <p>Jan 2026 - Present</p>
+      <p>Centrale Supélec</p>
+
   - name: Songyu Sun
     group: current
     image: team/SUNSongyu.jpg
