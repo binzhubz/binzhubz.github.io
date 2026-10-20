@@ -97,6 +97,16 @@ profiles:
       <p>Jan 2026 - Present</p>
       <p>Centrale Supélec</p>
 
+  - name: Mai Phan Quoc Hung
+    group: current
+    image: team/HungMai.jpg
+    image_circular: false
+    more_info: >
+      <a href="https://mpquochung.github.io/">Mai Phan Quoc Hung</a>
+      <p>Research Student</p>
+      <p>Apr 2026 - Present</p>
+      <p>National Economics University</p>
+
   - name: Songyu Sun
     group: current
     image: team/SUNSongyu.jpg
