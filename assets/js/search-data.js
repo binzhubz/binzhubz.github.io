@@ -185,6 +185,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-serve-as-an-associate-editor-on-the-editorial-board-of-pattern-recognition",
           title: 'I will serve as an Associate Editor on the Editorial Board of Pattern...',
           description: "",
+          section: "News",},{id: "news-i-am-honored-to-join-the-singapore-s-embodied-ai-centre-eaic-as-an-affiliated-principal-investigator-pi-under-national-robotics-programme-nrp",
+          title: 'I am honored to join the Singapore’s Embodied AI Centre (EAIC) as an...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
