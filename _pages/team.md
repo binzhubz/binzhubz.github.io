@@ -77,6 +77,16 @@ profiles:
       <p>Jul 2026 - Present</p>
       <p>Hefei University of Technology</p>
   
+  - name: Xiaoda Zhong
+    group: current
+    image: team/XiaodaZhong.jpg
+    image_circular: false
+    more_info: >
+      <a href="https://scholar.google.com/citations?user=Lj9RrIsAAAAJ&hl=en">Xiaoda Zhong</a>
+      <p>Master Research Student</p>
+      <p>Oct 2026 - Present</p>
+      <p>National University of Singapore</p>
+
   - name: Aernar Akeljian
     group: current
     image: team/aernar.jpg
